@@ -8,7 +8,7 @@
 - Field of Focus in Computer Science: Web Development, Game Development, Software Engineering, Computer Vision, Data Science, Networks
 - Goal for This Semester: I want to become more confident in collaborative coding
 
-## Student 2
+## Jemarco N. Briz
 
 - Preferred Name: JM
 - Programming Languages: Python, SQL
@@ -17,7 +17,7 @@
 - Field of Focus in Computer Science: Data Engineering, AI Data Infrastructure
 - Goal for This Semester: I want to become a top tier data engineer! Yay!
 
-## Student 3
+## Joseph Patrick A. Salomeo
 
 - Preferred Name: JP
 - Skills: Python, C, Java, JavaScript, TypeScript, SQL, Rust, UI/UX
