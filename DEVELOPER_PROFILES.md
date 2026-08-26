@@ -19,6 +19,14 @@
 
 ## Student 3
 
+- Preferred Name: JP
+- Skills: Python, C, Java, JavaScript, TypeScript, SQL, Rust, UI/UX
+- Tools: VS Code, Git, GitHub Desktop, Figma, Claude Code
+- Field of Focus in Computer Science: Software Engineering & Web Development
+- Goal for This Semester: Improve at collaborative work.
+
+## Student 4
+
 - Preferred Name: <name>
 - Skills: <skill 1>, <skill 2>, <skill 3>
 - Tools: <tool 1>, <tool 2>, <tool 3>
