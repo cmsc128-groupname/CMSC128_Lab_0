@@ -7,4 +7,4 @@ This repository is for CMSC 128 Laboratory Activity 0 on Git and GitHub Organiza
 - Luis Victor Borbolla
 - Dan Gabriel Guevara
 - Jemarco N. Briz
-- Student 4
+- Joseph Patrick A. Salomeo
