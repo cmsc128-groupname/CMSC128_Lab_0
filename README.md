@@ -1,1 +1,4 @@
-# CMSC128_Lab_0
+simple pull request workflow
+
+Luis Victor Borbolla
+Dan Gabriel Guevara
