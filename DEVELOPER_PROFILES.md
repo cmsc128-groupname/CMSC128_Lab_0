@@ -32,3 +32,11 @@
 - Tools: Claude, ChatGPT, Gemini
 - Field of Focus in Computer Science: Software Engineering
 - Goal for This Semester: Survival
+
+## Josef Magloire M. Placer
+
+- Preferred Name: Josef
+- Skills: HTML, CSS, Javascript, Quality Assurance/Testing.
+- Tools: VSCode, GitHub Desktop, XAMPP
+- Field of Focus in Computer Science: Software Engineering
+- Goal for This Semester: I want to understand and get better in HCI and QA/Testing.

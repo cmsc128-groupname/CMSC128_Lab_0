@@ -8,3 +8,4 @@ This repository is for CMSC 128 Laboratory Activity 0 on Git and GitHub Organiza
 - Dan Gabriel Guevara
 - Jemarco N. Briz
 - Joseph Patrick A. Salomeo
+- Josef Magloire M. Placer
